@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/sandipkumar681/SwatchKit.git",
       "state" : {
-        "revision" : "0a060d1f66edbdeed1748879d1aaec1d48129ed8",
-        "version" : "1.0.0"
+        "revision" : "1d988ee9cfbe51899f44ebe18788d63579239acd",
+        "version" : "1.1.0"
       }
     }
   ],

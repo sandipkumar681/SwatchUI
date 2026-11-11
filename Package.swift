@@ -9,7 +9,7 @@ let package = Package(
     ],
     dependencies: [
         // "from" = any 1.x.y at or above 1.0.0, never 2.0.0
-        .package(url: "https://github.com/sandipkumar681/SwatchKit.git", from: "1.0.0")
+        .package(url: "https://github.com/sandipkumar681/SwatchKit.git", from: "1.1.0")
     ],
     targets: [
         .target(
