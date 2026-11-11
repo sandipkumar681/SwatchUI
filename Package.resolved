@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swatchkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sandipkumar681/SwatchKit.git",
+      "state" : {
+        "revision" : "0a060d1f66edbdeed1748879d1aaec1d48129ed8",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
